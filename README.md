@@ -141,3 +141,14 @@ _________________________________________________________________
         </tr>
     </tbody>
 </table>
+
+# Tech Stack:
+- **Back-end** : Flask
+- **Front-end** : HTML, CSS, Bootstrap
+
+## Features:
+- **Highly sensitive model available for use**:    
+On checking the checkbox, one can get the predictions from a highly sensitive model which reduces the falsely classified negative predictions
+
+# Screenshots:
+![Highly Sensitive Model](https://user-images.githubusercontent.com/40513848/81507028-01fbd180-9318-11ea-970d-7475b0ba3d70.png)
